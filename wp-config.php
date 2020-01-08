@@ -29,7 +29,7 @@ define('DB_USER', 'bitverse_kidtalks');
 define('DB_PASSWORD', 'P@ssw0rd123');
 
 /** MySQL hostname */
-define('DB_HOST', 'https://c05.tmdcloud.asia/');
+define('DB_HOST', 'https://c05.tmdcloud.asia:2083/');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
